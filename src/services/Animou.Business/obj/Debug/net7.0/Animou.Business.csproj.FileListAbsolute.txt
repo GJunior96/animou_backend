@@ -1,0 +1,12 @@
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Business\bin\Debug\net7.0\Animou.Business.deps.json
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Business\bin\Debug\net7.0\Animou.Business.dll
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Business\bin\Debug\net7.0\Animou.Business.pdb
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Business\obj\Debug\net7.0\Animou.Business.csproj.AssemblyReference.cache
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Business\obj\Debug\net7.0\Animou.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Business\obj\Debug\net7.0\Animou.Business.AssemblyInfoInputs.cache
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Business\obj\Debug\net7.0\Animou.Business.AssemblyInfo.cs
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Business\obj\Debug\net7.0\Animou.Business.csproj.CoreCompileInputs.cache
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Business\obj\Debug\net7.0\Animou.Business.dll
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Business\obj\Debug\net7.0\refint\Animou.Business.dll
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Business\obj\Debug\net7.0\Animou.Business.pdb
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Business\obj\Debug\net7.0\ref\Animou.Business.dll

@@ -1,0 +1,17 @@
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\obj\Debug\net7.0\Animou.Data.csproj.AssemblyReference.cache
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\obj\Debug\net7.0\Animou.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\obj\Debug\net7.0\Animou.Data.AssemblyInfoInputs.cache
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\obj\Debug\net7.0\Animou.Data.AssemblyInfo.cs
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\obj\Debug\net7.0\Animou.Data.csproj.CoreCompileInputs.cache
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\bin\Debug\net7.0\Animou.Data.deps.json
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\bin\Debug\net7.0\Animou.Data.dll
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\bin\Debug\net7.0\Animou.Data.pdb
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\bin\Debug\net7.0\Animou.Business.dll
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\bin\Debug\net7.0\Animou.Business.pdb
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\obj\Debug\net7.0\Animou.Data.csproj.CopyComplete
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\obj\Debug\net7.0\Animou.Data.dll
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\obj\Debug\net7.0\refint\Animou.Data.dll
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\obj\Debug\net7.0\Animou.Data.pdb
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\obj\Debug\net7.0\ref\Animou.Data.dll
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\bin\Debug\net7.0\Animou.Data.runtimeconfig.json
+C:\Users\kenobi\Documents\Dev\animou\src\services\Animou.Data\obj\Debug\net7.0\Animou.Data.genruntimeconfig.cache
